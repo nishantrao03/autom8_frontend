@@ -1,0 +1,72 @@
+/* Container covers the entire viewport */
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-color: black;
+    text-align: center;
+    font-family: sans-serif;
+  }
+  
+  /* Header with gradient matching landing page */
+  .title {
+    font-size: 3rem;
+    font-weight: bold;
+    margin-bottom: 2rem;
+    background: linear-gradient(to bottom, white, #7daaff);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+  
+  /* Form container */
+  .form {
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+    gap: 1rem;
+  }
+  
+  /* Input fields */
+  .inputField {
+    padding: 0.8rem 1rem;
+    border-radius: 5px;
+    border: 1px solid #444;
+    background-color: #111;
+    color: white;
+    font-size: 1rem;
+  }
+  
+  .inputField::placeholder {
+    color: #888;
+  }
+  
+  /* Signup text below password */
+  .signupText {
+    font-size: 0.9rem;
+    color: #7daaff;
+    margin-bottom: 1rem;
+  }
+  
+  .signupText span {
+    cursor: pointer;
+    text-decoration: underline;
+  }
+  
+  /* Buttons: Submit and Google Sign In */
+  .button {
+    background-color: #7daaff; /* same as landing page button */
+    color: white;
+    padding: 0.8rem 1rem;
+    border: none;
+    border-radius: 5px;
+    font-size: 1rem;
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+  
+  .button:hover {
+    background-color: #6699ff; /* hover effect */
+  }
+  

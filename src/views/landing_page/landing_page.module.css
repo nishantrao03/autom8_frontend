@@ -1,0 +1,61 @@
+/* Make the entire page background black */
+html, body {
+    height: 100%;
+    margin: 0;
+    background-color: black;
+    color: white;
+    font-family: sans-serif;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh; /* still center content vertically */
+    text-align: center;
+}
+
+.title {
+    font-size: 5rem;
+    font-weight: bold;
+    /* Gradient text from white to slightly darker blue */
+    background: linear-gradient(to bottom, white, #7daaff);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+
+.tagline {
+    font-size: 1.5rem;
+    margin-top: 1rem;
+    overflow: hidden; /* Hide the text until the animation plays */
+    white-space: nowrap; /* Prevent the text from wrapping */
+    animation: typing 3s steps(40, end);
+
+    /* Gradient text */
+    background: linear-gradient(to right, white, #7daaff);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+
+.button {
+    background-color: #557acc;
+    color: white;
+    padding: 1rem 2rem;
+    border: none;
+    border-radius: 5px;
+    font-size: 1.2rem;
+    cursor: pointer;
+    margin-top: 2rem;
+}
+
+@keyframes typing {
+    from {
+        width: 0;
+    }
+    to {
+        width: 100%;
+    }
+}
