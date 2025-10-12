@@ -1,0 +1,877 @@
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-10-12T08:58:00.429Z] Checked if tokens are valid: false, expires at: 1760225163879
+[debug] [2025-10-12T08:58:00.430Z] Checked if tokens are valid: false, expires at: 1760225163879
+[debug] [2025-10-12T08:58:00.430Z] > refreshing access token with scopes: []
+[debug] [2025-10-12T08:58:00.432Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2025-10-12T08:58:00.433Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-10-12T08:58:00.466Z] Checked if tokens are valid: false, expires at: 1760225163879
+[debug] [2025-10-12T08:58:00.466Z] Checked if tokens are valid: false, expires at: 1760225163879
+[debug] [2025-10-12T08:58:00.467Z] > refreshing access token with scopes: []
+[debug] [2025-10-12T08:58:00.467Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2025-10-12T08:58:00.467Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-10-12T08:58:00.470Z] Checked if tokens are valid: false, expires at: 1760225163879
+[debug] [2025-10-12T08:58:00.470Z] Checked if tokens are valid: false, expires at: 1760225163879
+[debug] [2025-10-12T08:58:00.470Z] > refreshing access token with scopes: []
+[debug] [2025-10-12T08:58:00.471Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2025-10-12T08:58:00.471Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-10-12T08:58:00.472Z] Checked if tokens are valid: false, expires at: 1760225163879
+[debug] [2025-10-12T08:58:00.472Z] Checked if tokens are valid: false, expires at: 1760225163879
+[debug] [2025-10-12T08:58:00.472Z] > refreshing access token with scopes: []
+[debug] [2025-10-12T08:58:00.473Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2025-10-12T08:58:00.473Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-10-12T08:58:00.474Z] Checked if tokens are valid: false, expires at: 1760225163879
+[debug] [2025-10-12T08:58:00.474Z] Checked if tokens are valid: false, expires at: 1760225163879
+[debug] [2025-10-12T08:58:00.474Z] > refreshing access token with scopes: []
+[debug] [2025-10-12T08:58:00.475Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2025-10-12T08:58:00.475Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-10-12T08:58:00.476Z] Checked if tokens are valid: false, expires at: 1760225163879
+[debug] [2025-10-12T08:58:00.476Z] Checked if tokens are valid: false, expires at: 1760225163879
+[debug] [2025-10-12T08:58:00.476Z] > refreshing access token with scopes: []
+[debug] [2025-10-12T08:58:00.476Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2025-10-12T08:58:00.476Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-10-12T08:58:00.478Z] Checked if tokens are valid: false, expires at: 1760225163879
+[debug] [2025-10-12T08:58:00.478Z] Checked if tokens are valid: false, expires at: 1760225163879
+[debug] [2025-10-12T08:58:00.478Z] > refreshing access token with scopes: []
+[debug] [2025-10-12T08:58:00.478Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2025-10-12T08:58:00.478Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-10-12T08:58:00.479Z] Checked if tokens are valid: false, expires at: 1760225163879
+[debug] [2025-10-12T08:58:00.479Z] Checked if tokens are valid: false, expires at: 1760225163879
+[debug] [2025-10-12T08:58:00.479Z] > refreshing access token with scopes: []
+[debug] [2025-10-12T08:58:00.480Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2025-10-12T08:58:00.480Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-10-12T08:58:00.481Z] Checked if tokens are valid: false, expires at: 1760225163879
+[debug] [2025-10-12T08:58:00.481Z] Checked if tokens are valid: false, expires at: 1760225163879
+[debug] [2025-10-12T08:58:00.481Z] > refreshing access token with scopes: []
+[debug] [2025-10-12T08:58:00.481Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2025-10-12T08:58:00.481Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-10-12T08:58:00.483Z] Checked if tokens are valid: false, expires at: 1760225163879
+[debug] [2025-10-12T08:58:00.483Z] Checked if tokens are valid: false, expires at: 1760225163879
+[debug] [2025-10-12T08:58:00.483Z] > refreshing access token with scopes: []
+[debug] [2025-10-12T08:58:00.483Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2025-10-12T08:58:00.483Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-10-12T08:58:00.484Z] Checked if tokens are valid: false, expires at: 1760225163879
+[debug] [2025-10-12T08:58:00.484Z] Checked if tokens are valid: false, expires at: 1760225163879
+[debug] [2025-10-12T08:58:00.484Z] > refreshing access token with scopes: []
+[debug] [2025-10-12T08:58:00.485Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2025-10-12T08:58:00.485Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-10-12T08:58:00.566Z] Checked if tokens are valid: false, expires at: 1760225163879
+[debug] [2025-10-12T08:58:00.566Z] Checked if tokens are valid: false, expires at: 1760225163879
+[debug] [2025-10-12T08:58:00.566Z] > refreshing access token with scopes: []
+[debug] [2025-10-12T08:58:00.566Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2025-10-12T08:58:00.566Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-10-12T08:58:00.568Z] Checked if tokens are valid: false, expires at: 1760225163879
+[debug] [2025-10-12T08:58:00.568Z] Checked if tokens are valid: false, expires at: 1760225163879
+[debug] [2025-10-12T08:58:00.568Z] > refreshing access token with scopes: []
+[debug] [2025-10-12T08:58:00.568Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2025-10-12T08:58:00.568Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-10-12T08:58:00.570Z] Checked if tokens are valid: false, expires at: 1760225163879
+[debug] [2025-10-12T08:58:00.570Z] Checked if tokens are valid: false, expires at: 1760225163879
+[debug] [2025-10-12T08:58:00.570Z] > refreshing access token with scopes: []
+[debug] [2025-10-12T08:58:00.571Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2025-10-12T08:58:00.571Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-10-12T08:58:00.572Z] Checked if tokens are valid: false, expires at: 1760225163879
+[debug] [2025-10-12T08:58:00.572Z] Checked if tokens are valid: false, expires at: 1760225163879
+[debug] [2025-10-12T08:58:00.572Z] > refreshing access token with scopes: []
+[debug] [2025-10-12T08:58:00.572Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2025-10-12T08:58:00.572Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-10-12T08:58:00.574Z] Checked if tokens are valid: false, expires at: 1760225163879
+[debug] [2025-10-12T08:58:00.574Z] Checked if tokens are valid: false, expires at: 1760225163879
+[debug] [2025-10-12T08:58:00.574Z] > refreshing access token with scopes: []
+[debug] [2025-10-12T08:58:00.574Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2025-10-12T08:58:00.574Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-10-12T08:58:00.575Z] Checked if tokens are valid: false, expires at: 1760225163879
+[debug] [2025-10-12T08:58:00.575Z] Checked if tokens are valid: false, expires at: 1760225163879
+[debug] [2025-10-12T08:58:00.575Z] > refreshing access token with scopes: []
+[debug] [2025-10-12T08:58:00.575Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2025-10-12T08:58:00.576Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-10-12T08:58:00.577Z] Checked if tokens are valid: false, expires at: 1760225163879
+[debug] [2025-10-12T08:58:00.577Z] Checked if tokens are valid: false, expires at: 1760225163879
+[debug] [2025-10-12T08:58:00.577Z] > refreshing access token with scopes: []
+[debug] [2025-10-12T08:58:00.577Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2025-10-12T08:58:00.577Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-10-12T08:58:00.579Z] Checked if tokens are valid: false, expires at: 1760225163879
+[debug] [2025-10-12T08:58:00.579Z] Checked if tokens are valid: false, expires at: 1760225163879
+[debug] [2025-10-12T08:58:00.579Z] > refreshing access token with scopes: []
+[debug] [2025-10-12T08:58:00.579Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2025-10-12T08:58:00.579Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-10-12T08:58:00.580Z] Checked if tokens are valid: false, expires at: 1760225163879
+[debug] [2025-10-12T08:58:00.580Z] Checked if tokens are valid: false, expires at: 1760225163879
+[debug] [2025-10-12T08:58:00.580Z] > refreshing access token with scopes: []
+[debug] [2025-10-12T08:58:00.580Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2025-10-12T08:58:00.580Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-10-12T08:58:00.581Z] Checked if tokens are valid: false, expires at: 1760225163879
+[debug] [2025-10-12T08:58:00.581Z] Checked if tokens are valid: false, expires at: 1760225163879
+[debug] [2025-10-12T08:58:00.581Z] > refreshing access token with scopes: []
+[debug] [2025-10-12T08:58:00.582Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2025-10-12T08:58:00.582Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-10-12T08:58:00.583Z] Checked if tokens are valid: false, expires at: 1760225163879
+[debug] [2025-10-12T08:58:00.583Z] Checked if tokens are valid: false, expires at: 1760225163879
+[debug] [2025-10-12T08:58:00.583Z] > refreshing access token with scopes: []
+[debug] [2025-10-12T08:58:00.583Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2025-10-12T08:58:00.583Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-10-12T08:58:00.720Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 200
+[debug] [2025-10-12T08:58:00.720Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-10-12T08:58:00.739Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/temp-react-4/services/storage.googleapis.com [none]
+[debug] [2025-10-12T08:58:00.739Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/temp-react-4/services/storage.googleapis.com x-goog-quota-user=projects/temp-react-4
+[debug] [2025-10-12T08:58:00.749Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 200
+[debug] [2025-10-12T08:58:00.749Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-10-12T08:58:00.760Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/temp-react-4/services/firestore.googleapis.com [none]
+[debug] [2025-10-12T08:58:00.760Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/temp-react-4/services/firestore.googleapis.com x-goog-quota-user=projects/temp-react-4
+[debug] [2025-10-12T08:58:00.765Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 200
+[debug] [2025-10-12T08:58:00.765Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-10-12T08:58:00.776Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/temp-react-4/services/firebasecrashlytics.googleapis.com [none]
+[debug] [2025-10-12T08:58:00.776Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/temp-react-4/services/firebasecrashlytics.googleapis.com x-goog-quota-user=projects/temp-react-4
+[debug] [2025-10-12T08:58:00.780Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 200
+[debug] [2025-10-12T08:58:00.780Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-10-12T08:58:00.792Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/temp-react-4/services/cloudfunctions.googleapis.com [none]
+[debug] [2025-10-12T08:58:00.792Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/temp-react-4/services/cloudfunctions.googleapis.com x-goog-quota-user=projects/temp-react-4
+[debug] [2025-10-12T08:58:00.817Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 200
+[debug] [2025-10-12T08:58:00.818Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-10-12T08:58:00.830Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/temp-react-4/services/firebaseio.com [none]
+[debug] [2025-10-12T08:58:00.830Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/temp-react-4/services/firebaseio.com x-goog-quota-user=projects/temp-react-4
+[debug] [2025-10-12T08:58:00.832Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 200
+[debug] [2025-10-12T08:58:00.832Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-10-12T08:58:00.840Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/temp-react-4/services/firebasedataconnect.googleapis.com [none]
+[debug] [2025-10-12T08:58:00.840Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/temp-react-4/services/firebasedataconnect.googleapis.com x-goog-quota-user=projects/temp-react-4
+[debug] [2025-10-12T08:58:00.841Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 200
+[debug] [2025-10-12T08:58:00.841Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-10-12T08:58:00.848Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/temp-react-4/services/firebasecrashlytics.googleapis.com [none]
+[debug] [2025-10-12T08:58:00.848Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/temp-react-4/services/firebasecrashlytics.googleapis.com x-goog-quota-user=projects/temp-react-4
+[debug] [2025-10-12T08:58:00.852Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 200
+[debug] [2025-10-12T08:58:00.853Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-10-12T08:58:00.862Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/temp-react-4/services/firebaseapphosting.googleapis.com [none]
+[debug] [2025-10-12T08:58:00.862Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/temp-react-4/services/firebaseapphosting.googleapis.com x-goog-quota-user=projects/temp-react-4
+[debug] [2025-10-12T08:58:00.872Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 200
+[debug] [2025-10-12T08:58:00.873Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-10-12T08:58:00.885Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/temp-react-4/services/identitytoolkit.googleapis.com [none]
+[debug] [2025-10-12T08:58:00.885Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/temp-react-4/services/identitytoolkit.googleapis.com x-goog-quota-user=projects/temp-react-4
+[debug] [2025-10-12T08:58:00.887Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 200
+[debug] [2025-10-12T08:58:00.887Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-10-12T08:58:00.895Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/temp-react-4/services/firestore.googleapis.com [none]
+[debug] [2025-10-12T08:58:00.895Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/temp-react-4/services/firestore.googleapis.com x-goog-quota-user=projects/temp-react-4
+[debug] [2025-10-12T08:58:00.897Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 200
+[debug] [2025-10-12T08:58:00.897Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-10-12T08:58:00.903Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/temp-react-4/services/ [none]
+[debug] [2025-10-12T08:58:00.903Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/temp-react-4/services/ x-goog-quota-user=projects/temp-react-4
+[debug] [2025-10-12T08:58:00.913Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 200
+[debug] [2025-10-12T08:58:00.913Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-10-12T08:58:00.925Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/temp-react-4/services/firebasedataconnect.googleapis.com [none]
+[debug] [2025-10-12T08:58:00.925Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/temp-react-4/services/firebasedataconnect.googleapis.com x-goog-quota-user=projects/temp-react-4
+[debug] [2025-10-12T08:58:00.926Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 200
+[debug] [2025-10-12T08:58:00.927Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-10-12T08:58:00.933Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/temp-react-4/services/fcm.googleapis.com [none]
+[debug] [2025-10-12T08:58:00.933Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/temp-react-4/services/fcm.googleapis.com x-goog-quota-user=projects/temp-react-4
+[debug] [2025-10-12T08:58:00.934Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 200
+[debug] [2025-10-12T08:58:00.934Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-10-12T08:58:00.941Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/temp-react-4/services/firebaseremoteconfig.googleapis.com [none]
+[debug] [2025-10-12T08:58:00.941Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/temp-react-4/services/firebaseremoteconfig.googleapis.com x-goog-quota-user=projects/temp-react-4
+[debug] [2025-10-12T08:58:00.946Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 200
+[debug] [2025-10-12T08:58:00.946Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-10-12T08:58:00.953Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/temp-react-4/services/identitytoolkit.googleapis.com [none]
+[debug] [2025-10-12T08:58:00.953Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/temp-react-4/services/identitytoolkit.googleapis.com x-goog-quota-user=projects/temp-react-4
+[debug] [2025-10-12T08:58:00.954Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 200
+[debug] [2025-10-12T08:58:00.954Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-10-12T08:58:00.962Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/temp-react-4/services/cloudfunctions.googleapis.com [none]
+[debug] [2025-10-12T08:58:00.962Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/temp-react-4/services/cloudfunctions.googleapis.com x-goog-quota-user=projects/temp-react-4
+[debug] [2025-10-12T08:58:00.963Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 200
+[debug] [2025-10-12T08:58:00.963Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-10-12T08:58:00.969Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/temp-react-4/services/firebaseremoteconfig.googleapis.com [none]
+[debug] [2025-10-12T08:58:00.969Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/temp-react-4/services/firebaseremoteconfig.googleapis.com x-goog-quota-user=projects/temp-react-4
+[debug] [2025-10-12T08:58:00.971Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 200
+[debug] [2025-10-12T08:58:00.971Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-10-12T08:58:00.983Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/temp-react-4/services/ [none]
+[debug] [2025-10-12T08:58:00.983Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/temp-react-4/services/ x-goog-quota-user=projects/temp-react-4
+[debug] [2025-10-12T08:58:00.985Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 200
+[debug] [2025-10-12T08:58:00.985Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-10-12T08:58:00.991Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/temp-react-4/services/fcm.googleapis.com [none]
+[debug] [2025-10-12T08:58:00.991Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/temp-react-4/services/fcm.googleapis.com x-goog-quota-user=projects/temp-react-4
+[debug] [2025-10-12T08:58:00.995Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 200
+[debug] [2025-10-12T08:58:00.995Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-10-12T08:58:01.011Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/temp-react-4/services/storage.googleapis.com [none]
+[debug] [2025-10-12T08:58:01.011Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/temp-react-4/services/storage.googleapis.com x-goog-quota-user=projects/temp-react-4
+[debug] [2025-10-12T08:58:01.030Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 200
+[debug] [2025-10-12T08:58:01.030Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-10-12T08:58:01.037Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/temp-react-4/services/firebaseio.com [none]
+[debug] [2025-10-12T08:58:01.037Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/temp-react-4/services/firebaseio.com x-goog-quota-user=projects/temp-react-4
+[debug] [2025-10-12T08:58:01.038Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 200
+[debug] [2025-10-12T08:58:01.038Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-10-12T08:58:01.044Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/temp-react-4/services/firebaseapphosting.googleapis.com [none]
+[debug] [2025-10-12T08:58:01.044Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/temp-react-4/services/firebaseapphosting.googleapis.com x-goog-quota-user=projects/temp-react-4
+[debug] [2025-10-12T08:58:01.790Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/temp-react-4/services/storage.googleapis.com 403
+[debug] [2025-10-12T08:58:01.791Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/temp-react-4/services/storage.googleapis.com [omitted]
+[debug] [2025-10-12T08:58:01.887Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/temp-react-4/services/firebasecrashlytics.googleapis.com 403
+[debug] [2025-10-12T08:58:01.887Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/temp-react-4/services/firebasecrashlytics.googleapis.com [omitted]
+[debug] [2025-10-12T08:58:01.893Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/temp-react-4/services/firebaseio.com 403
+[debug] [2025-10-12T08:58:01.893Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/temp-react-4/services/firebaseio.com [omitted]
+[debug] [2025-10-12T08:58:01.897Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/temp-react-4/services/firebasecrashlytics.googleapis.com 403
+[debug] [2025-10-12T08:58:01.897Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/temp-react-4/services/firebasecrashlytics.googleapis.com [omitted]
+[debug] [2025-10-12T08:58:01.897Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/temp-react-4/services/cloudfunctions.googleapis.com 403
+[debug] [2025-10-12T08:58:01.898Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/temp-react-4/services/cloudfunctions.googleapis.com [omitted]
+[debug] [2025-10-12T08:58:01.899Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/temp-react-4/services/firestore.googleapis.com 403
+[debug] [2025-10-12T08:58:01.899Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/temp-react-4/services/firestore.googleapis.com [omitted]
+[debug] [2025-10-12T08:58:01.986Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/temp-react-4/services/firebaseapphosting.googleapis.com 403
+[debug] [2025-10-12T08:58:01.986Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/temp-react-4/services/firebaseapphosting.googleapis.com [omitted]
+[debug] [2025-10-12T08:58:02.000Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/temp-react-4/services/firebasedataconnect.googleapis.com 403
+[debug] [2025-10-12T08:58:02.000Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/temp-react-4/services/firebasedataconnect.googleapis.com [omitted]
+[debug] [2025-10-12T08:58:02.046Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/temp-react-4/services/firebaseio.com 403
+[debug] [2025-10-12T08:58:02.046Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/temp-react-4/services/firebaseio.com [omitted]
+[debug] [2025-10-12T08:58:02.092Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/temp-react-4/services/firebaseapphosting.googleapis.com 403
+[debug] [2025-10-12T08:58:02.093Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/temp-react-4/services/firebaseapphosting.googleapis.com [omitted]
+[debug] [2025-10-12T08:58:02.093Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/temp-react-4/services/fcm.googleapis.com 403
+[debug] [2025-10-12T08:58:02.093Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/temp-react-4/services/fcm.googleapis.com [omitted]
+[debug] [2025-10-12T08:58:02.093Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/temp-react-4/services/storage.googleapis.com 403
+[debug] [2025-10-12T08:58:02.093Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/temp-react-4/services/storage.googleapis.com [omitted]
+[debug] [2025-10-12T08:58:02.097Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/temp-react-4/services/ 403
+[debug] [2025-10-12T08:58:02.097Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/temp-react-4/services/ [omitted]
+[debug] [2025-10-12T08:58:02.098Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/temp-react-4/services/fcm.googleapis.com 403
+[debug] [2025-10-12T08:58:02.098Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/temp-react-4/services/fcm.googleapis.com [omitted]
+[debug] [2025-10-12T08:58:02.099Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/temp-react-4/services/identitytoolkit.googleapis.com 403
+[debug] [2025-10-12T08:58:02.099Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/temp-react-4/services/identitytoolkit.googleapis.com [omitted]
+[debug] [2025-10-12T08:58:02.099Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/temp-react-4/services/identitytoolkit.googleapis.com 403
+[debug] [2025-10-12T08:58:02.099Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/temp-react-4/services/identitytoolkit.googleapis.com [omitted]
+[debug] [2025-10-12T08:58:02.100Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/temp-react-4/services/firebaseremoteconfig.googleapis.com 403
+[debug] [2025-10-12T08:58:02.100Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/temp-react-4/services/firebaseremoteconfig.googleapis.com [omitted]
+[debug] [2025-10-12T08:58:02.101Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/temp-react-4/services/firebasedataconnect.googleapis.com 403
+[debug] [2025-10-12T08:58:02.101Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/temp-react-4/services/firebasedataconnect.googleapis.com [omitted]
+[debug] [2025-10-12T08:58:02.101Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/temp-react-4/services/ 403
+[debug] [2025-10-12T08:58:02.101Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/temp-react-4/services/ [omitted]
+[debug] [2025-10-12T08:58:02.102Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/temp-react-4/services/firestore.googleapis.com 403
+[debug] [2025-10-12T08:58:02.102Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/temp-react-4/services/firestore.googleapis.com [omitted]
+[debug] [2025-10-12T08:58:02.102Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/temp-react-4/services/firebaseremoteconfig.googleapis.com 403
+[debug] [2025-10-12T08:58:02.102Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/temp-react-4/services/firebaseremoteconfig.googleapis.com [omitted]
+[debug] [2025-10-12T08:58:02.201Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/temp-react-4/services/cloudfunctions.googleapis.com 403
+[debug] [2025-10-12T08:58:02.201Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/temp-react-4/services/cloudfunctions.googleapis.com [omitted]
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-10-12T08:58:02.203Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-10-12T08:58:02.203Z] > authorizing via signed-in user (nishantrao2856@gmail.com)
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-10-12T09:04:45.806Z] Checked if tokens are valid: true, expires at: 1760263080038
+[debug] [2025-10-12T09:04:45.807Z] Checked if tokens are valid: true, expires at: 1760263080038
+[debug] [2025-10-12T09:04:45.807Z] Checked if tokens are valid: true, expires at: 1760263080038
+[debug] [2025-10-12T09:04:45.807Z] Checked if tokens are valid: true, expires at: 1760263080038
+[debug] [2025-10-12T09:04:45.813Z] Checked if tokens are valid: true, expires at: 1760263080038
+[debug] [2025-10-12T09:04:45.813Z] Checked if tokens are valid: true, expires at: 1760263080038
+[debug] [2025-10-12T09:04:45.814Z] Checked if tokens are valid: true, expires at: 1760263080038
+[debug] [2025-10-12T09:04:45.814Z] Checked if tokens are valid: true, expires at: 1760263080038
+[debug] [2025-10-12T09:04:45.814Z] Checked if tokens are valid: true, expires at: 1760263080038
+[debug] [2025-10-12T09:04:45.819Z] Checked if tokens are valid: true, expires at: 1760263080038
+[debug] [2025-10-12T09:04:45.819Z] Checked if tokens are valid: true, expires at: 1760263080038
+[debug] [2025-10-12T09:04:45.820Z] Checked if tokens are valid: true, expires at: 1760263080038
+[debug] [2025-10-12T09:04:45.820Z] Checked if tokens are valid: true, expires at: 1760263080038
+[debug] [2025-10-12T09:04:45.820Z] Checked if tokens are valid: true, expires at: 1760263080038
+[debug] [2025-10-12T09:04:45.821Z] Checked if tokens are valid: true, expires at: 1760263080038
+[debug] [2025-10-12T09:04:45.824Z] Checked if tokens are valid: true, expires at: 1760263080038
+[debug] [2025-10-12T09:04:45.824Z] Checked if tokens are valid: true, expires at: 1760263080038
+[debug] [2025-10-12T09:04:45.824Z] Checked if tokens are valid: true, expires at: 1760263080038
+[debug] [2025-10-12T09:04:45.827Z] Checked if tokens are valid: true, expires at: 1760263080038
+[debug] [2025-10-12T09:04:45.827Z] Checked if tokens are valid: true, expires at: 1760263080038
+[debug] [2025-10-12T09:04:45.827Z] Checked if tokens are valid: true, expires at: 1760263080038
+[debug] [2025-10-12T09:04:45.827Z] Checked if tokens are valid: true, expires at: 1760263080038
+[debug] [2025-10-12T09:04:45.834Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/temp-react-4/services/ [none]
+[debug] [2025-10-12T09:04:45.834Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/temp-react-4/services/ x-goog-quota-user=projects/temp-react-4
+[debug] [2025-10-12T09:04:46.018Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/temp-react-4/services/firestore.googleapis.com [none]
+[debug] [2025-10-12T09:04:46.018Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/temp-react-4/services/firestore.googleapis.com x-goog-quota-user=projects/temp-react-4
+[debug] [2025-10-12T09:04:46.028Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/temp-react-4/services/storage.googleapis.com [none]
+[debug] [2025-10-12T09:04:46.028Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/temp-react-4/services/storage.googleapis.com x-goog-quota-user=projects/temp-react-4
+[debug] [2025-10-12T09:04:46.046Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/temp-react-4/services/firebasedataconnect.googleapis.com [none]
+[debug] [2025-10-12T09:04:46.054Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/temp-react-4/services/firebasedataconnect.googleapis.com x-goog-quota-user=projects/temp-react-4
+[debug] [2025-10-12T09:04:46.066Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/temp-react-4/services/identitytoolkit.googleapis.com [none]
+[debug] [2025-10-12T09:04:46.066Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/temp-react-4/services/identitytoolkit.googleapis.com x-goog-quota-user=projects/temp-react-4
+[debug] [2025-10-12T09:04:46.076Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/temp-react-4/services/fcm.googleapis.com [none]
+[debug] [2025-10-12T09:04:46.076Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/temp-react-4/services/fcm.googleapis.com x-goog-quota-user=projects/temp-react-4
+[debug] [2025-10-12T09:04:46.087Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/temp-react-4/services/cloudfunctions.googleapis.com [none]
+[debug] [2025-10-12T09:04:46.089Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/temp-react-4/services/cloudfunctions.googleapis.com x-goog-quota-user=projects/temp-react-4
+[debug] [2025-10-12T09:04:46.097Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/temp-react-4/services/firebaseremoteconfig.googleapis.com [none]
+[debug] [2025-10-12T09:04:46.097Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/temp-react-4/services/firebaseremoteconfig.googleapis.com x-goog-quota-user=projects/temp-react-4
+[debug] [2025-10-12T09:04:46.108Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/temp-react-4/services/firebasecrashlytics.googleapis.com [none]
+[debug] [2025-10-12T09:04:46.108Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/temp-react-4/services/firebasecrashlytics.googleapis.com x-goog-quota-user=projects/temp-react-4
+[debug] [2025-10-12T09:04:46.119Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/temp-react-4/services/firebaseapphosting.googleapis.com [none]
+[debug] [2025-10-12T09:04:46.120Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/temp-react-4/services/firebaseapphosting.googleapis.com x-goog-quota-user=projects/temp-react-4
+[debug] [2025-10-12T09:04:46.128Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/temp-react-4/services/firebaseio.com [none]
+[debug] [2025-10-12T09:04:46.128Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/temp-react-4/services/firebaseio.com x-goog-quota-user=projects/temp-react-4
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-10-12T09:04:46.426Z] Checked if tokens are valid: true, expires at: 1760263080038
+[debug] [2025-10-12T09:04:46.426Z] Checked if tokens are valid: true, expires at: 1760263080038
+[debug] [2025-10-12T09:04:46.426Z] Checked if tokens are valid: true, expires at: 1760263080038
+[debug] [2025-10-12T09:04:46.426Z] Checked if tokens are valid: true, expires at: 1760263080038
+[debug] [2025-10-12T09:04:46.426Z] Checked if tokens are valid: true, expires at: 1760263080038
+[debug] [2025-10-12T09:04:46.426Z] Checked if tokens are valid: true, expires at: 1760263080038
+[debug] [2025-10-12T09:04:46.427Z] Checked if tokens are valid: true, expires at: 1760263080038
+[debug] [2025-10-12T09:04:46.427Z] Checked if tokens are valid: true, expires at: 1760263080038
+[debug] [2025-10-12T09:04:46.427Z] Checked if tokens are valid: true, expires at: 1760263080038
+[debug] [2025-10-12T09:04:46.427Z] Checked if tokens are valid: true, expires at: 1760263080038
+[debug] [2025-10-12T09:04:46.427Z] Checked if tokens are valid: true, expires at: 1760263080038
+[debug] [2025-10-12T09:04:46.428Z] Checked if tokens are valid: true, expires at: 1760263080038
+[debug] [2025-10-12T09:04:46.428Z] Checked if tokens are valid: true, expires at: 1760263080038
+[debug] [2025-10-12T09:04:46.428Z] Checked if tokens are valid: true, expires at: 1760263080038
+[debug] [2025-10-12T09:04:46.428Z] Checked if tokens are valid: true, expires at: 1760263080038
+[debug] [2025-10-12T09:04:46.428Z] Checked if tokens are valid: true, expires at: 1760263080038
+[debug] [2025-10-12T09:04:46.428Z] Checked if tokens are valid: true, expires at: 1760263080038
+[debug] [2025-10-12T09:04:46.428Z] Checked if tokens are valid: true, expires at: 1760263080038
+[debug] [2025-10-12T09:04:46.429Z] Checked if tokens are valid: true, expires at: 1760263080038
+[debug] [2025-10-12T09:04:46.429Z] Checked if tokens are valid: true, expires at: 1760263080038
+[debug] [2025-10-12T09:04:46.429Z] Checked if tokens are valid: true, expires at: 1760263080038
+[debug] [2025-10-12T09:04:46.429Z] Checked if tokens are valid: true, expires at: 1760263080038
+[debug] [2025-10-12T09:04:46.429Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/temp-react-4/services/ [none]
+[debug] [2025-10-12T09:04:46.429Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/temp-react-4/services/ x-goog-quota-user=projects/temp-react-4
+[debug] [2025-10-12T09:04:46.432Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/temp-react-4/services/firestore.googleapis.com [none]
+[debug] [2025-10-12T09:04:46.432Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/temp-react-4/services/firestore.googleapis.com x-goog-quota-user=projects/temp-react-4
+[debug] [2025-10-12T09:04:46.434Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/temp-react-4/services/storage.googleapis.com [none]
+[debug] [2025-10-12T09:04:46.434Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/temp-react-4/services/storage.googleapis.com x-goog-quota-user=projects/temp-react-4
+[debug] [2025-10-12T09:04:46.436Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/temp-react-4/services/firebasedataconnect.googleapis.com [none]
+[debug] [2025-10-12T09:04:46.436Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/temp-react-4/services/firebasedataconnect.googleapis.com x-goog-quota-user=projects/temp-react-4
+[debug] [2025-10-12T09:04:46.438Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/temp-react-4/services/identitytoolkit.googleapis.com [none]
+[debug] [2025-10-12T09:04:46.438Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/temp-react-4/services/identitytoolkit.googleapis.com x-goog-quota-user=projects/temp-react-4
+[debug] [2025-10-12T09:04:46.439Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/temp-react-4/services/fcm.googleapis.com [none]
+[debug] [2025-10-12T09:04:46.439Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/temp-react-4/services/fcm.googleapis.com x-goog-quota-user=projects/temp-react-4
+[debug] [2025-10-12T09:04:46.441Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/temp-react-4/services/cloudfunctions.googleapis.com [none]
+[debug] [2025-10-12T09:04:46.441Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/temp-react-4/services/cloudfunctions.googleapis.com x-goog-quota-user=projects/temp-react-4
+[debug] [2025-10-12T09:04:46.442Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/temp-react-4/services/firebaseremoteconfig.googleapis.com [none]
+[debug] [2025-10-12T09:04:46.442Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/temp-react-4/services/firebaseremoteconfig.googleapis.com x-goog-quota-user=projects/temp-react-4
+[debug] [2025-10-12T09:04:46.451Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/temp-react-4/services/firebasecrashlytics.googleapis.com [none]
+[debug] [2025-10-12T09:04:46.451Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/temp-react-4/services/firebasecrashlytics.googleapis.com x-goog-quota-user=projects/temp-react-4
+[debug] [2025-10-12T09:04:46.452Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/temp-react-4/services/firebaseapphosting.googleapis.com [none]
+[debug] [2025-10-12T09:04:46.452Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/temp-react-4/services/firebaseapphosting.googleapis.com x-goog-quota-user=projects/temp-react-4
+[debug] [2025-10-12T09:04:46.462Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/temp-react-4/services/firebaseio.com [none]
+[debug] [2025-10-12T09:04:46.466Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/temp-react-4/services/firebaseio.com x-goog-quota-user=projects/temp-react-4
+[debug] [2025-10-12T09:04:47.439Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/temp-react-4/services/ 403
+[debug] [2025-10-12T09:04:47.439Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/temp-react-4/services/ [omitted]
+[debug] [2025-10-12T09:04:47.457Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/temp-react-4/services/firebasedataconnect.googleapis.com 403
+[debug] [2025-10-12T09:04:47.457Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/temp-react-4/services/firebasedataconnect.googleapis.com [omitted]
+[debug] [2025-10-12T09:04:47.468Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/temp-react-4/services/identitytoolkit.googleapis.com 403
+[debug] [2025-10-12T09:04:47.468Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/temp-react-4/services/identitytoolkit.googleapis.com [omitted]
+[debug] [2025-10-12T09:04:47.565Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/temp-react-4/services/firebaseio.com 403
+[debug] [2025-10-12T09:04:47.571Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/temp-react-4/services/firebaseio.com [omitted]
+[debug] [2025-10-12T09:04:47.583Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/temp-react-4/services/cloudfunctions.googleapis.com 403
+[debug] [2025-10-12T09:04:47.583Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/temp-react-4/services/cloudfunctions.googleapis.com [omitted]
+[debug] [2025-10-12T09:04:47.688Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/temp-react-4/services/cloudfunctions.googleapis.com 403
+[debug] [2025-10-12T09:04:47.693Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/temp-react-4/services/cloudfunctions.googleapis.com [omitted]
+[debug] [2025-10-12T09:04:47.701Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/temp-react-4/services/storage.googleapis.com 403
+[debug] [2025-10-12T09:04:47.701Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/temp-react-4/services/storage.googleapis.com [omitted]
+[debug] [2025-10-12T09:04:47.717Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/temp-react-4/services/firebaseremoteconfig.googleapis.com 403
+[debug] [2025-10-12T09:04:47.718Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/temp-react-4/services/firebaseremoteconfig.googleapis.com [omitted]
+[debug] [2025-10-12T09:04:47.720Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/temp-react-4/services/firebasecrashlytics.googleapis.com 403
+[debug] [2025-10-12T09:04:47.720Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/temp-react-4/services/firebasecrashlytics.googleapis.com [omitted]
+[debug] [2025-10-12T09:04:47.732Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/temp-react-4/services/storage.googleapis.com 403
+[debug] [2025-10-12T09:04:47.733Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/temp-react-4/services/storage.googleapis.com [omitted]
+[debug] [2025-10-12T09:04:47.744Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/temp-react-4/services/firebasecrashlytics.googleapis.com 403
+[debug] [2025-10-12T09:04:47.744Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/temp-react-4/services/firebasecrashlytics.googleapis.com [omitted]
+[debug] [2025-10-12T09:04:47.747Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/temp-react-4/services/firestore.googleapis.com 403
+[debug] [2025-10-12T09:04:47.747Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/temp-react-4/services/firestore.googleapis.com [omitted]
+[debug] [2025-10-12T09:04:47.753Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/temp-react-4/services/fcm.googleapis.com 403
+[debug] [2025-10-12T09:04:47.753Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/temp-react-4/services/fcm.googleapis.com [omitted]
+[debug] [2025-10-12T09:04:47.755Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/temp-react-4/services/firebaseapphosting.googleapis.com 403
+[debug] [2025-10-12T09:04:47.755Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/temp-react-4/services/firebaseapphosting.googleapis.com [omitted]
+[debug] [2025-10-12T09:04:47.764Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/temp-react-4/services/ 403
+[debug] [2025-10-12T09:04:47.764Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/temp-react-4/services/ [omitted]
+[debug] [2025-10-12T09:04:47.769Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/temp-react-4/services/firebaseremoteconfig.googleapis.com 403
+[debug] [2025-10-12T09:04:47.769Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/temp-react-4/services/firebaseremoteconfig.googleapis.com [omitted]
+[debug] [2025-10-12T09:04:47.780Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/temp-react-4/services/identitytoolkit.googleapis.com 403
+[debug] [2025-10-12T09:04:47.780Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/temp-react-4/services/identitytoolkit.googleapis.com [omitted]
+[debug] [2025-10-12T09:04:47.788Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/temp-react-4/services/firebaseapphosting.googleapis.com 403
+[debug] [2025-10-12T09:04:47.788Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/temp-react-4/services/firebaseapphosting.googleapis.com [omitted]
+[debug] [2025-10-12T09:04:47.789Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/temp-react-4/services/firestore.googleapis.com 403
+[debug] [2025-10-12T09:04:47.789Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/temp-react-4/services/firestore.googleapis.com [omitted]
+[debug] [2025-10-12T09:04:47.801Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/temp-react-4/services/fcm.googleapis.com 403
+[debug] [2025-10-12T09:04:47.801Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/temp-react-4/services/fcm.googleapis.com [omitted]
+[debug] [2025-10-12T09:04:47.801Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/temp-react-4/services/firebasedataconnect.googleapis.com 403
+[debug] [2025-10-12T09:04:47.801Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/temp-react-4/services/firebasedataconnect.googleapis.com [omitted]
+[debug] [2025-10-12T09:04:47.806Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/temp-react-4/services/firebaseio.com 403
+[debug] [2025-10-12T09:04:47.806Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/temp-react-4/services/firebaseio.com [omitted]
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-10-12T09:04:47.817Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-10-12T09:04:47.823Z] > authorizing via signed-in user (nishantrao2856@gmail.com)
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-10-12T09:04:47.868Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-10-12T09:04:47.871Z] > authorizing via signed-in user (nishantrao2856@gmail.com)
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-10-12T09:04:47.886Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-10-12T09:04:47.887Z] > authorizing via signed-in user (nishantrao2856@gmail.com)
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-10-12T09:05:52.450Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-10-12T09:05:52.450Z] > authorizing via signed-in user (nishantrao2856@gmail.com)
+[debug] [2025-10-12T09:05:52.467Z] >>> [apiv2][query] POST https://auth.firebase.tools/attest [none]
+[debug] [2025-10-12T09:05:52.467Z] >>> [apiv2][body] POST https://auth.firebase.tools/attest {"session_id":"1bc0eb6d-750e-4c18-b3f9-d707bac564b1"}
+[debug] [2025-10-12T09:05:52.798Z] <<< [apiv2][status] POST https://auth.firebase.tools/attest 200
+[debug] [2025-10-12T09:05:52.798Z] <<< [apiv2][body] POST https://auth.firebase.tools/attest {"token":"6mapLnsWYKgecm1b97OD8Djzd1LwUNfh4c_nn-OnHBw"}
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-10-12T09:06:49.757Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-10-12T09:06:49.758Z] > authorizing via signed-in user (nishantrao2856@gmail.com)
+[debug] [2025-10-12T09:06:49.766Z] >>> [apiv2][query] POST https://accounts.google.com/o/oauth2/token [none]
+[debug] [2025-10-12T09:06:49.766Z] >>> [apiv2][body] POST https://accounts.google.com/o/oauth2/token [omitted]
+[debug] [2025-10-12T09:06:49.837Z] <<< [apiv2][status] POST https://accounts.google.com/o/oauth2/token 200
+[debug] [2025-10-12T09:06:49.837Z] <<< [apiv2][body] POST https://accounts.google.com/o/oauth2/token [omitted]
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-10-12T09:06:56.298Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-10-12T09:06:56.298Z] > authorizing via signed-in user (nishantrao2856@gmail.com)
+[debug] [2025-10-12T09:06:56.304Z] Checked if tokens are valid: true, expires at: 1760263608838
+[debug] [2025-10-12T09:06:56.304Z] Checked if tokens are valid: true, expires at: 1760263608838
+[debug] [2025-10-12T09:06:56.305Z] >>> [apiv2][query] GET https://firebase.googleapis.com/v1beta1/projects pageSize=1000
+[debug] [2025-10-12T09:06:56.783Z] <<< [apiv2][status] GET https://firebase.googleapis.com/v1beta1/projects 200
+[debug] [2025-10-12T09:06:56.783Z] <<< [apiv2][body] GET https://firebase.googleapis.com/v1beta1/projects [omitted]
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-10-12T09:07:05.924Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-10-12T09:07:05.924Z] > authorizing via signed-in user (nishantrao2856@gmail.com)
+[debug] [2025-10-12T09:07:05.933Z] Checked if tokens are valid: true, expires at: 1760263608838
+[debug] [2025-10-12T09:07:05.933Z] Checked if tokens are valid: true, expires at: 1760263608838
+[debug] [2025-10-12T09:07:05.933Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/autom8-app/services/cloudresourcemanager.googleapis.com [none]
+[debug] [2025-10-12T09:07:05.933Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/autom8-app/services/cloudresourcemanager.googleapis.com x-goog-quota-user=projects/autom8-app
+[debug] [2025-10-12T09:07:07.097Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/autom8-app/services/cloudresourcemanager.googleapis.com 200
+[debug] [2025-10-12T09:07:07.097Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/autom8-app/services/cloudresourcemanager.googleapis.com [omitted]
+[debug] [2025-10-12T09:07:07.105Z] Checked if tokens are valid: true, expires at: 1760263608838
+[debug] [2025-10-12T09:07:07.105Z] Checked if tokens are valid: true, expires at: 1760263608838
+[debug] [2025-10-12T09:07:07.106Z] >>> [apiv2][query] GET https://cloudresourcemanager.googleapis.com/v1/projects/autom8-app [none]
+[debug] [2025-10-12T09:07:08.006Z] <<< [apiv2][status] GET https://cloudresourcemanager.googleapis.com/v1/projects/autom8-app 200
+[debug] [2025-10-12T09:07:08.006Z] <<< [apiv2][body] GET https://cloudresourcemanager.googleapis.com/v1/projects/autom8-app {"projectNumber":"185124421343","projectId":"autom8-app","lifecycleState":"ACTIVE","name":"AutoM8","labels":{"firebase":"enabled","firebase-core":"disabled"},"createTime":"2025-10-11T22:35:05.359518Z"}
+[info] Updating Studio Workspace active project to match Firebase CLI 'autom8-app'
+[error] Failed to update Firebase Project for Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[info] Now using project autom8-app
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-10-12T09:07:42.796Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-10-12T09:07:42.796Z] > authorizing via signed-in user (nishantrao2856@gmail.com)
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-10-12T09:07:42.819Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-10-12T09:07:42.824Z] > authorizing via signed-in user (nishantrao2856@gmail.com)
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-10-12T09:07:42.892Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-10-12T09:07:42.899Z] > authorizing via signed-in user (nishantrao2856@gmail.com)
+[debug] [2025-10-12T09:07:42.899Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-10-12T09:07:42.899Z] > authorizing via signed-in user (nishantrao2856@gmail.com)
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-10-12T09:08:05.933Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-10-12T09:08:05.933Z] > authorizing via signed-in user (nishantrao2856@gmail.com)
+[debug] [2025-10-12T09:08:05.934Z] Checked if tokens are valid: true, expires at: 1760263608838
+[debug] [2025-10-12T09:08:05.936Z] Checked if tokens are valid: true, expires at: 1760263608838
+[debug] [2025-10-12T09:08:05.936Z] >>> [apiv2][query] GET https://firebase.googleapis.com/v1beta1/projects/autom8-app/webApps pageSize=100
+[debug] [2025-10-12T09:08:06.288Z] <<< [apiv2][status] GET https://firebase.googleapis.com/v1beta1/projects/autom8-app/webApps 200
+[debug] [2025-10-12T09:08:06.288Z] <<< [apiv2][body] GET https://firebase.googleapis.com/v1beta1/projects/autom8-app/webApps {}
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-10-12T09:08:13.861Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-10-12T09:08:13.861Z] > authorizing via signed-in user (nishantrao2856@gmail.com)
+[debug] [2025-10-12T09:08:13.865Z] Checked if tokens are valid: true, expires at: 1760263608838
+[debug] [2025-10-12T09:08:13.865Z] Checked if tokens are valid: true, expires at: 1760263608838
+[debug] [2025-10-12T09:08:13.865Z] >>> [apiv2][query] POST https://firebase.googleapis.com/v1beta1/projects/autom8-app/webApps [none]
+[debug] [2025-10-12T09:08:13.865Z] >>> [apiv2][body] POST https://firebase.googleapis.com/v1beta1/projects/autom8-app/webApps {"displayName":"AutoM8 Web"}
+[debug] [2025-10-12T09:08:15.422Z] <<< [apiv2][status] POST https://firebase.googleapis.com/v1beta1/projects/autom8-app/webApps 200
+[debug] [2025-10-12T09:08:15.422Z] <<< [apiv2][body] POST https://firebase.googleapis.com/v1beta1/projects/autom8-app/webApps {"name":"operations/workflows/MWEwMGEwN2UtN2IyNC00ZTVmLWE2MmUtZWM5NjU2NWU5Nzkw"}
+[debug] [2025-10-12T09:08:15.424Z] Checked if tokens are valid: true, expires at: 1760263608838
+[debug] [2025-10-12T09:08:15.424Z] Checked if tokens are valid: true, expires at: 1760263608838
+[debug] [2025-10-12T09:08:15.427Z] >>> [apiv2][query] GET https://firebase.googleapis.com/v1beta1/operations/workflows/MWEwMGEwN2UtN2IyNC00ZTVmLWE2MmUtZWM5NjU2NWU5Nzkw [none]
+[debug] [2025-10-12T09:08:15.928Z] <<< [apiv2][status] GET https://firebase.googleapis.com/v1beta1/operations/workflows/MWEwMGEwN2UtN2IyNC00ZTVmLWE2MmUtZWM5NjU2NWU5Nzkw 200
+[debug] [2025-10-12T09:08:15.928Z] <<< [apiv2][body] GET https://firebase.googleapis.com/v1beta1/operations/workflows/MWEwMGEwN2UtN2IyNC00ZTVmLWE2MmUtZWM5NjU2NWU5Nzkw {"name":"operations/workflows/MWEwMGEwN2UtN2IyNC00ZTVmLWE2MmUtZWM5NjU2NWU5Nzkw"}
+[debug] [2025-10-12T09:08:16.431Z] [Create Web app Poller] Retrying task index 0
+[debug] [2025-10-12T09:08:16.431Z] Checked if tokens are valid: true, expires at: 1760263608838
+[debug] [2025-10-12T09:08:16.431Z] Checked if tokens are valid: true, expires at: 1760263608838
+[debug] [2025-10-12T09:08:16.432Z] >>> [apiv2][query] GET https://firebase.googleapis.com/v1beta1/operations/workflows/MWEwMGEwN2UtN2IyNC00ZTVmLWE2MmUtZWM5NjU2NWU5Nzkw [none]
+[debug] [2025-10-12T09:08:16.969Z] <<< [apiv2][status] GET https://firebase.googleapis.com/v1beta1/operations/workflows/MWEwMGEwN2UtN2IyNC00ZTVmLWE2MmUtZWM5NjU2NWU5Nzkw 200
+[debug] [2025-10-12T09:08:16.969Z] <<< [apiv2][body] GET https://firebase.googleapis.com/v1beta1/operations/workflows/MWEwMGEwN2UtN2IyNC00ZTVmLWE2MmUtZWM5NjU2NWU5Nzkw {"name":"operations/workflows/MWEwMGEwN2UtN2IyNC00ZTVmLWE2MmUtZWM5NjU2NWU5Nzkw"}
+[debug] [2025-10-12T09:08:17.970Z] [Create Web app Poller] Retrying task index 0
+[debug] [2025-10-12T09:08:17.970Z] Checked if tokens are valid: true, expires at: 1760263608838
+[debug] [2025-10-12T09:08:17.971Z] Checked if tokens are valid: true, expires at: 1760263608838
+[debug] [2025-10-12T09:08:17.971Z] >>> [apiv2][query] GET https://firebase.googleapis.com/v1beta1/operations/workflows/MWEwMGEwN2UtN2IyNC00ZTVmLWE2MmUtZWM5NjU2NWU5Nzkw [none]
+[debug] [2025-10-12T09:08:18.477Z] <<< [apiv2][status] GET https://firebase.googleapis.com/v1beta1/operations/workflows/MWEwMGEwN2UtN2IyNC00ZTVmLWE2MmUtZWM5NjU2NWU5Nzkw 200
+[debug] [2025-10-12T09:08:18.477Z] <<< [apiv2][body] GET https://firebase.googleapis.com/v1beta1/operations/workflows/MWEwMGEwN2UtN2IyNC00ZTVmLWE2MmUtZWM5NjU2NWU5Nzkw {"name":"operations/workflows/MWEwMGEwN2UtN2IyNC00ZTVmLWE2MmUtZWM5NjU2NWU5Nzkw"}
+[debug] [2025-10-12T09:08:20.479Z] [Create Web app Poller] Retrying task index 0
+[debug] [2025-10-12T09:08:20.481Z] Checked if tokens are valid: true, expires at: 1760263608838
+[debug] [2025-10-12T09:08:20.481Z] Checked if tokens are valid: true, expires at: 1760263608838
+[debug] [2025-10-12T09:08:20.481Z] >>> [apiv2][query] GET https://firebase.googleapis.com/v1beta1/operations/workflows/MWEwMGEwN2UtN2IyNC00ZTVmLWE2MmUtZWM5NjU2NWU5Nzkw [none]
+[debug] [2025-10-12T09:08:20.954Z] <<< [apiv2][status] GET https://firebase.googleapis.com/v1beta1/operations/workflows/MWEwMGEwN2UtN2IyNC00ZTVmLWE2MmUtZWM5NjU2NWU5Nzkw 200
+[debug] [2025-10-12T09:08:20.954Z] <<< [apiv2][body] GET https://firebase.googleapis.com/v1beta1/operations/workflows/MWEwMGEwN2UtN2IyNC00ZTVmLWE2MmUtZWM5NjU2NWU5Nzkw {"name":"operations/workflows/MWEwMGEwN2UtN2IyNC00ZTVmLWE2MmUtZWM5NjU2NWU5Nzkw","done":true,"response":{"@type":"type.googleapis.com/google.firebase.service.v1beta1.WebApp","name":"projects/autom8-app/webApps/1:185124421343:web:6e518367a4405050fa336a","appId":"1:185124421343:web:6e518367a4405050fa336a","displayName":"AutoM8 Web","projectId":"autom8-app","webId":"ZTliMzExMjEtZWE1Ny00ZDE5LWFjMTctYzE4MDFhZGY1ZjVj","apiKeyId":"5d3716f2-d521-4cc9-ba1f-a7f72987bd33","state":"ACTIVE","expireTime":"1970-01-01T00:00:00Z","etag":"1_4399e24a-aadb-4867-9592-a52c3df534a3"}}
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-10-12T09:08:27.367Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-10-12T09:08:27.368Z] > authorizing via signed-in user (nishantrao2856@gmail.com)
+[debug] [2025-10-12T09:08:27.368Z] Checked if tokens are valid: true, expires at: 1760263608838
+[debug] [2025-10-12T09:08:27.368Z] Checked if tokens are valid: true, expires at: 1760263608838
+[debug] [2025-10-12T09:08:27.368Z] >>> [apiv2][query] GET https://firebase.googleapis.com/v1beta1/projects/autom8-app/webApps pageSize=100
+[debug] [2025-10-12T09:08:27.735Z] <<< [apiv2][status] GET https://firebase.googleapis.com/v1beta1/projects/autom8-app/webApps 200
+[debug] [2025-10-12T09:08:27.736Z] <<< [apiv2][body] GET https://firebase.googleapis.com/v1beta1/projects/autom8-app/webApps {"apps":[{"name":"projects/autom8-app/webApps/1:185124421343:web:6e518367a4405050fa336a","appId":"1:185124421343:web:6e518367a4405050fa336a","displayName":"AutoM8 Web","projectId":"autom8-app","webId":"ZTliMzExMjEtZWE1Ny00ZDE5LWFjMTctYzE4MDFhZGY1ZjVj","apiKeyId":"5d3716f2-d521-4cc9-ba1f-a7f72987bd33","state":"ACTIVE","expireTime":"1970-01-01T00:00:00Z","etag":"1_4399e24a-aadb-4867-9592-a52c3df534a3"}]}
+[debug] [2025-10-12T09:08:27.737Z] Checked if tokens are valid: true, expires at: 1760263608838
+[debug] [2025-10-12T09:08:27.738Z] Checked if tokens are valid: true, expires at: 1760263608838
+[debug] [2025-10-12T09:08:27.738Z] >>> [apiv2][query] GET https://firebase.googleapis.com/v1beta1/projects/-/webApps/1:185124421343:web:6e518367a4405050fa336a/config [none]
+[debug] [2025-10-12T09:08:28.277Z] <<< [apiv2][status] GET https://firebase.googleapis.com/v1beta1/projects/-/webApps/1:185124421343:web:6e518367a4405050fa336a/config 200
+[debug] [2025-10-12T09:08:28.277Z] <<< [apiv2][body] GET https://firebase.googleapis.com/v1beta1/projects/-/webApps/1:185124421343:web:6e518367a4405050fa336a/config {"projectId":"autom8-app","appId":"1:185124421343:web:6e518367a4405050fa336a","storageBucket":"autom8-app.firebasestorage.app","apiKey":"AIzaSyA5WkdqDxJc3ZkRWjK_qQrV2qOxm3CF1wE","authDomain":"autom8-app.firebaseapp.com","messagingSenderId":"185124421343","projectNumber":"185124421343","version":"2"}
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-10-12T10:04:47.498Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-10-12T10:04:47.498Z] > authorizing via signed-in user (nishantrao2856@gmail.com)
+[debug] [2025-10-12T10:04:47.507Z] Checked if tokens are valid: false, expires at: 1760263608838
+[debug] [2025-10-12T10:04:47.507Z] Checked if tokens are valid: false, expires at: 1760263608838
+[debug] [2025-10-12T10:04:47.508Z] > refreshing access token with scopes: []
+[debug] [2025-10-12T10:04:47.513Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2025-10-12T10:04:47.514Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-10-12T10:04:47.558Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 200
+[debug] [2025-10-12T10:04:47.558Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-10-12T10:04:47.576Z] >>> [apiv2][query] GET https://cloudresourcemanager.googleapis.com/v1/projects/autom8-app [none]
+[debug] [2025-10-12T10:04:48.369Z] <<< [apiv2][status] GET https://cloudresourcemanager.googleapis.com/v1/projects/autom8-app 200
+[debug] [2025-10-12T10:04:48.369Z] <<< [apiv2][body] GET https://cloudresourcemanager.googleapis.com/v1/projects/autom8-app {"projectNumber":"185124421343","projectId":"autom8-app","lifecycleState":"ACTIVE","name":"AutoM8","labels":{"firebase":"enabled","firebase-core":"disabled"},"createTime":"2025-10-11T22:35:05.359518Z"}
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-10-12T12:47:33.223Z] Checked if tokens are valid: false, expires at: 1760267086559
+[debug] [2025-10-12T12:47:33.224Z] Checked if tokens are valid: false, expires at: 1760267086559
+[debug] [2025-10-12T12:47:33.224Z] > refreshing access token with scopes: []
+[debug] [2025-10-12T12:47:33.228Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2025-10-12T12:47:33.229Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-10-12T12:47:33.279Z] Checked if tokens are valid: false, expires at: 1760267086559
+[debug] [2025-10-12T12:47:33.279Z] Checked if tokens are valid: false, expires at: 1760267086559
+[debug] [2025-10-12T12:47:33.280Z] > refreshing access token with scopes: []
+[debug] [2025-10-12T12:47:33.280Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2025-10-12T12:47:33.280Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-10-12T12:47:33.283Z] Checked if tokens are valid: false, expires at: 1760267086559
+[debug] [2025-10-12T12:47:33.284Z] Checked if tokens are valid: false, expires at: 1760267086559
+[debug] [2025-10-12T12:47:33.284Z] > refreshing access token with scopes: []
+[debug] [2025-10-12T12:47:33.285Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2025-10-12T12:47:33.285Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-10-12T12:47:33.287Z] Checked if tokens are valid: false, expires at: 1760267086559
+[debug] [2025-10-12T12:47:33.287Z] Checked if tokens are valid: false, expires at: 1760267086559
+[debug] [2025-10-12T12:47:33.287Z] > refreshing access token with scopes: []
+[debug] [2025-10-12T12:47:33.288Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2025-10-12T12:47:33.288Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-10-12T12:47:33.290Z] Checked if tokens are valid: false, expires at: 1760267086559
+[debug] [2025-10-12T12:47:33.290Z] Checked if tokens are valid: false, expires at: 1760267086559
+[debug] [2025-10-12T12:47:33.290Z] > refreshing access token with scopes: []
+[debug] [2025-10-12T12:47:33.290Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2025-10-12T12:47:33.290Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-10-12T12:47:33.292Z] Checked if tokens are valid: false, expires at: 1760267086559
+[debug] [2025-10-12T12:47:33.292Z] Checked if tokens are valid: false, expires at: 1760267086559
+[debug] [2025-10-12T12:47:33.293Z] > refreshing access token with scopes: []
+[debug] [2025-10-12T12:47:33.293Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2025-10-12T12:47:33.293Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-10-12T12:47:33.295Z] Checked if tokens are valid: false, expires at: 1760267086559
+[debug] [2025-10-12T12:47:33.295Z] Checked if tokens are valid: false, expires at: 1760267086559
+[debug] [2025-10-12T12:47:33.295Z] > refreshing access token with scopes: []
+[debug] [2025-10-12T12:47:33.296Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2025-10-12T12:47:33.296Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-10-12T12:47:33.298Z] Checked if tokens are valid: false, expires at: 1760267086559
+[debug] [2025-10-12T12:47:33.298Z] Checked if tokens are valid: false, expires at: 1760267086559
+[debug] [2025-10-12T12:47:33.298Z] > refreshing access token with scopes: []
+[debug] [2025-10-12T12:47:33.298Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2025-10-12T12:47:33.298Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-10-12T12:47:33.300Z] Checked if tokens are valid: false, expires at: 1760267086559
+[debug] [2025-10-12T12:47:33.300Z] Checked if tokens are valid: false, expires at: 1760267086559
+[debug] [2025-10-12T12:47:33.300Z] > refreshing access token with scopes: []
+[debug] [2025-10-12T12:47:33.301Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2025-10-12T12:47:33.301Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-10-12T12:47:33.303Z] Checked if tokens are valid: false, expires at: 1760267086559
+[debug] [2025-10-12T12:47:33.303Z] Checked if tokens are valid: false, expires at: 1760267086559
+[debug] [2025-10-12T12:47:33.303Z] > refreshing access token with scopes: []
+[debug] [2025-10-12T12:47:33.304Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2025-10-12T12:47:33.304Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-10-12T12:47:33.306Z] Checked if tokens are valid: false, expires at: 1760267086559
+[debug] [2025-10-12T12:47:33.306Z] Checked if tokens are valid: false, expires at: 1760267086559
+[debug] [2025-10-12T12:47:33.306Z] > refreshing access token with scopes: []
+[debug] [2025-10-12T12:47:33.306Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2025-10-12T12:47:33.307Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-10-12T12:47:33.412Z] Checked if tokens are valid: false, expires at: 1760267086559
+[debug] [2025-10-12T12:47:33.412Z] Checked if tokens are valid: false, expires at: 1760267086559
+[debug] [2025-10-12T12:47:33.412Z] > refreshing access token with scopes: []
+[debug] [2025-10-12T12:47:33.413Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2025-10-12T12:47:33.413Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-10-12T12:47:33.422Z] Checked if tokens are valid: false, expires at: 1760267086559
+[debug] [2025-10-12T12:47:33.422Z] Checked if tokens are valid: false, expires at: 1760267086559
+[debug] [2025-10-12T12:47:33.422Z] > refreshing access token with scopes: []
+[debug] [2025-10-12T12:47:33.424Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2025-10-12T12:47:33.424Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-10-12T12:47:33.427Z] Checked if tokens are valid: false, expires at: 1760267086559
+[debug] [2025-10-12T12:47:33.427Z] Checked if tokens are valid: false, expires at: 1760267086559
+[debug] [2025-10-12T12:47:33.428Z] > refreshing access token with scopes: []
+[debug] [2025-10-12T12:47:33.428Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2025-10-12T12:47:33.428Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-10-12T12:47:33.430Z] Checked if tokens are valid: false, expires at: 1760267086559
+[debug] [2025-10-12T12:47:33.430Z] Checked if tokens are valid: false, expires at: 1760267086559
+[debug] [2025-10-12T12:47:33.430Z] > refreshing access token with scopes: []
+[debug] [2025-10-12T12:47:33.430Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2025-10-12T12:47:33.430Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-10-12T12:47:33.432Z] Checked if tokens are valid: false, expires at: 1760267086559
+[debug] [2025-10-12T12:47:33.432Z] Checked if tokens are valid: false, expires at: 1760267086559
+[debug] [2025-10-12T12:47:33.432Z] > refreshing access token with scopes: []
+[debug] [2025-10-12T12:47:33.433Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2025-10-12T12:47:33.433Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-10-12T12:47:33.435Z] Checked if tokens are valid: false, expires at: 1760267086559
+[debug] [2025-10-12T12:47:33.435Z] Checked if tokens are valid: false, expires at: 1760267086559
+[debug] [2025-10-12T12:47:33.435Z] > refreshing access token with scopes: []
+[debug] [2025-10-12T12:47:33.435Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2025-10-12T12:47:33.435Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-10-12T12:47:33.438Z] Checked if tokens are valid: false, expires at: 1760267086559
+[debug] [2025-10-12T12:47:33.438Z] Checked if tokens are valid: false, expires at: 1760267086559
+[debug] [2025-10-12T12:47:33.438Z] > refreshing access token with scopes: []
+[debug] [2025-10-12T12:47:33.438Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2025-10-12T12:47:33.439Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-10-12T12:47:33.441Z] Checked if tokens are valid: false, expires at: 1760267086559
+[debug] [2025-10-12T12:47:33.441Z] Checked if tokens are valid: false, expires at: 1760267086559
+[debug] [2025-10-12T12:47:33.441Z] > refreshing access token with scopes: []
+[debug] [2025-10-12T12:47:33.441Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2025-10-12T12:47:33.441Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-10-12T12:47:33.443Z] Checked if tokens are valid: false, expires at: 1760267086559
+[debug] [2025-10-12T12:47:33.443Z] Checked if tokens are valid: false, expires at: 1760267086559
+[debug] [2025-10-12T12:47:33.443Z] > refreshing access token with scopes: []
+[debug] [2025-10-12T12:47:33.443Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2025-10-12T12:47:33.443Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-10-12T12:47:33.445Z] Checked if tokens are valid: false, expires at: 1760267086559
+[debug] [2025-10-12T12:47:33.445Z] Checked if tokens are valid: false, expires at: 1760267086559
+[debug] [2025-10-12T12:47:33.445Z] > refreshing access token with scopes: []
+[debug] [2025-10-12T12:47:33.445Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2025-10-12T12:47:33.445Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-10-12T12:47:33.447Z] Checked if tokens are valid: false, expires at: 1760267086559
+[debug] [2025-10-12T12:47:33.447Z] Checked if tokens are valid: false, expires at: 1760267086559
+[debug] [2025-10-12T12:47:33.447Z] > refreshing access token with scopes: []
+[debug] [2025-10-12T12:47:33.448Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2025-10-12T12:47:33.448Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-10-12T12:47:33.522Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 200
+[debug] [2025-10-12T12:47:33.522Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-10-12T12:47:33.542Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/autom8-app/services/identitytoolkit.googleapis.com [none]
+[debug] [2025-10-12T12:47:33.543Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/autom8-app/services/identitytoolkit.googleapis.com x-goog-quota-user=projects/autom8-app
+[debug] [2025-10-12T12:47:33.581Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 200
+[debug] [2025-10-12T12:47:33.581Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-10-12T12:47:33.593Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/autom8-app/services/storage.googleapis.com [none]
+[debug] [2025-10-12T12:47:33.594Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/autom8-app/services/storage.googleapis.com x-goog-quota-user=projects/autom8-app
+[debug] [2025-10-12T12:47:33.606Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 200
+[debug] [2025-10-12T12:47:33.606Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-10-12T12:47:33.619Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/autom8-app/services/cloudfunctions.googleapis.com [none]
+[debug] [2025-10-12T12:47:33.620Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/autom8-app/services/cloudfunctions.googleapis.com x-goog-quota-user=projects/autom8-app
+[debug] [2025-10-12T12:47:33.622Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 200
+[debug] [2025-10-12T12:47:33.622Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-10-12T12:47:33.632Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/autom8-app/services/firebaseapphosting.googleapis.com [none]
+[debug] [2025-10-12T12:47:33.632Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/autom8-app/services/firebaseapphosting.googleapis.com x-goog-quota-user=projects/autom8-app
+[debug] [2025-10-12T12:47:33.653Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 200
+[debug] [2025-10-12T12:47:33.655Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-10-12T12:47:33.673Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/autom8-app/services/fcm.googleapis.com [none]
+[debug] [2025-10-12T12:47:33.673Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/autom8-app/services/fcm.googleapis.com x-goog-quota-user=projects/autom8-app
+[debug] [2025-10-12T12:47:33.677Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 200
+[debug] [2025-10-12T12:47:33.677Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-10-12T12:47:33.688Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/autom8-app/services/identitytoolkit.googleapis.com [none]
+[debug] [2025-10-12T12:47:33.688Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/autom8-app/services/identitytoolkit.googleapis.com x-goog-quota-user=projects/autom8-app
+[debug] [2025-10-12T12:47:33.692Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 200
+[debug] [2025-10-12T12:47:33.692Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-10-12T12:47:33.709Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/autom8-app/services/firebasecrashlytics.googleapis.com [none]
+[debug] [2025-10-12T12:47:33.709Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/autom8-app/services/firebasecrashlytics.googleapis.com x-goog-quota-user=projects/autom8-app
+[debug] [2025-10-12T12:47:33.718Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 200
+[debug] [2025-10-12T12:47:33.718Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-10-12T12:47:33.729Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/autom8-app/services/storage.googleapis.com [none]
+[debug] [2025-10-12T12:47:33.729Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/autom8-app/services/storage.googleapis.com x-goog-quota-user=projects/autom8-app
+[debug] [2025-10-12T12:47:33.731Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 200
+[debug] [2025-10-12T12:47:33.731Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-10-12T12:47:33.743Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/autom8-app/services/firebaseremoteconfig.googleapis.com [none]
+[debug] [2025-10-12T12:47:33.743Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/autom8-app/services/firebaseremoteconfig.googleapis.com x-goog-quota-user=projects/autom8-app
+[debug] [2025-10-12T12:47:33.747Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 200
+[debug] [2025-10-12T12:47:33.747Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-10-12T12:47:33.763Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/autom8-app/services/firestore.googleapis.com [none]
+[debug] [2025-10-12T12:47:33.764Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/autom8-app/services/firestore.googleapis.com x-goog-quota-user=projects/autom8-app
+[debug] [2025-10-12T12:47:33.788Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 200
+[debug] [2025-10-12T12:47:33.789Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-10-12T12:47:33.803Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/autom8-app/services/fcm.googleapis.com [none]
+[debug] [2025-10-12T12:47:33.803Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/autom8-app/services/fcm.googleapis.com x-goog-quota-user=projects/autom8-app
+[debug] [2025-10-12T12:47:33.809Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 200
+[debug] [2025-10-12T12:47:33.809Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-10-12T12:47:33.826Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/autom8-app/services/ [none]
+[debug] [2025-10-12T12:47:33.826Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/autom8-app/services/ x-goog-quota-user=projects/autom8-app
+[debug] [2025-10-12T12:47:33.869Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 200
+[debug] [2025-10-12T12:47:33.869Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-10-12T12:47:33.882Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/autom8-app/services/firebaseio.com [none]
+[debug] [2025-10-12T12:47:33.882Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/autom8-app/services/firebaseio.com x-goog-quota-user=projects/autom8-app
+[debug] [2025-10-12T12:47:33.888Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 200
+[debug] [2025-10-12T12:47:33.888Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-10-12T12:47:33.901Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/autom8-app/services/firebasecrashlytics.googleapis.com [none]
+[debug] [2025-10-12T12:47:33.901Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/autom8-app/services/firebasecrashlytics.googleapis.com x-goog-quota-user=projects/autom8-app
+[debug] [2025-10-12T12:47:33.915Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 200
+[debug] [2025-10-12T12:47:33.915Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-10-12T12:47:33.925Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/autom8-app/services/firebasedataconnect.googleapis.com [none]
+[debug] [2025-10-12T12:47:33.926Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/autom8-app/services/firebasedataconnect.googleapis.com x-goog-quota-user=projects/autom8-app
+[debug] [2025-10-12T12:47:33.927Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 200
+[debug] [2025-10-12T12:47:33.928Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-10-12T12:47:33.939Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/autom8-app/services/firebaseapphosting.googleapis.com [none]
+[debug] [2025-10-12T12:47:33.939Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/autom8-app/services/firebaseapphosting.googleapis.com x-goog-quota-user=projects/autom8-app
+[debug] [2025-10-12T12:47:33.941Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 200
+[debug] [2025-10-12T12:47:33.941Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-10-12T12:47:33.951Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/autom8-app/services/cloudfunctions.googleapis.com [none]
+[debug] [2025-10-12T12:47:33.952Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/autom8-app/services/cloudfunctions.googleapis.com x-goog-quota-user=projects/autom8-app
+[debug] [2025-10-12T12:47:33.969Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 200
+[debug] [2025-10-12T12:47:33.972Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-10-12T12:47:33.989Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/autom8-app/services/ [none]
+[debug] [2025-10-12T12:47:33.990Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/autom8-app/services/ x-goog-quota-user=projects/autom8-app
+[debug] [2025-10-12T12:47:33.996Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 200
+[debug] [2025-10-12T12:47:33.996Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-10-12T12:47:34.007Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/autom8-app/services/firebaseremoteconfig.googleapis.com [none]
+[debug] [2025-10-12T12:47:34.008Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/autom8-app/services/firebaseremoteconfig.googleapis.com x-goog-quota-user=projects/autom8-app
+[debug] [2025-10-12T12:47:34.009Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 200
+[debug] [2025-10-12T12:47:34.010Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-10-12T12:47:34.020Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/autom8-app/services/firebaseio.com [none]
+[debug] [2025-10-12T12:47:34.020Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/autom8-app/services/firebaseio.com x-goog-quota-user=projects/autom8-app
+[debug] [2025-10-12T12:47:34.027Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 200
+[debug] [2025-10-12T12:47:34.027Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-10-12T12:47:34.040Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/autom8-app/services/firestore.googleapis.com [none]
+[debug] [2025-10-12T12:47:34.041Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/autom8-app/services/firestore.googleapis.com x-goog-quota-user=projects/autom8-app
+[debug] [2025-10-12T12:47:34.075Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 200
+[debug] [2025-10-12T12:47:34.075Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-10-12T12:47:34.089Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/autom8-app/services/firebasedataconnect.googleapis.com [none]
+[debug] [2025-10-12T12:47:34.089Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/autom8-app/services/firebasedataconnect.googleapis.com x-goog-quota-user=projects/autom8-app
+[debug] [2025-10-12T12:47:34.641Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/autom8-app/services/identitytoolkit.googleapis.com 200
+[debug] [2025-10-12T12:47:34.644Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/autom8-app/services/identitytoolkit.googleapis.com [omitted]
+[debug] [2025-10-12T12:47:34.669Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/autom8-app/services/storage.googleapis.com 200
+[debug] [2025-10-12T12:47:34.669Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/autom8-app/services/storage.googleapis.com [omitted]
+[debug] [2025-10-12T12:47:34.731Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/autom8-app/services/firebaseapphosting.googleapis.com 200
+[debug] [2025-10-12T12:47:34.735Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/autom8-app/services/firebaseapphosting.googleapis.com [omitted]
+[debug] [2025-10-12T12:47:34.745Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/autom8-app/services/cloudfunctions.googleapis.com 200
+[debug] [2025-10-12T12:47:34.747Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/autom8-app/services/cloudfunctions.googleapis.com [omitted]
+[debug] [2025-10-12T12:47:34.769Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/autom8-app/services/identitytoolkit.googleapis.com 200
+[debug] [2025-10-12T12:47:34.769Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/autom8-app/services/identitytoolkit.googleapis.com [omitted]
+[debug] [2025-10-12T12:47:34.788Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/autom8-app/services/fcm.googleapis.com 200
+[debug] [2025-10-12T12:47:34.788Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/autom8-app/services/fcm.googleapis.com [omitted]
+[debug] [2025-10-12T12:47:34.829Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/autom8-app/services/firebasecrashlytics.googleapis.com 200
+[debug] [2025-10-12T12:47:34.830Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/autom8-app/services/firebasecrashlytics.googleapis.com [omitted]
+[debug] [2025-10-12T12:47:34.890Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/autom8-app/services/firebaseremoteconfig.googleapis.com 200
+[debug] [2025-10-12T12:47:34.890Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/autom8-app/services/firebaseremoteconfig.googleapis.com [omitted]
+[debug] [2025-10-12T12:47:34.902Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/autom8-app/services/storage.googleapis.com 200
+[debug] [2025-10-12T12:47:34.902Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/autom8-app/services/storage.googleapis.com [omitted]
+[debug] [2025-10-12T12:47:34.954Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/autom8-app/services/firebaseio.com 403
+[debug] [2025-10-12T12:47:34.954Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/autom8-app/services/firebaseio.com [omitted]
+[debug] [2025-10-12T12:47:34.974Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/autom8-app/services/firestore.googleapis.com 200
+[debug] [2025-10-12T12:47:34.974Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/autom8-app/services/firestore.googleapis.com [omitted]
+[debug] [2025-10-12T12:47:35.001Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/autom8-app/services/fcm.googleapis.com 200
+[debug] [2025-10-12T12:47:35.001Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/autom8-app/services/fcm.googleapis.com [omitted]
+[debug] [2025-10-12T12:47:35.021Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/autom8-app/services/firebasecrashlytics.googleapis.com 200
+[debug] [2025-10-12T12:47:35.021Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/autom8-app/services/firebasecrashlytics.googleapis.com [omitted]
+[debug] [2025-10-12T12:47:35.032Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/autom8-app/services/firebaseapphosting.googleapis.com 200
+[debug] [2025-10-12T12:47:35.033Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/autom8-app/services/firebaseapphosting.googleapis.com [omitted]
+[debug] [2025-10-12T12:47:35.035Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/autom8-app/services/firebaseio.com 403
+[debug] [2025-10-12T12:47:35.035Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/autom8-app/services/firebaseio.com [omitted]
+[debug] [2025-10-12T12:47:35.060Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/autom8-app/services/firebasedataconnect.googleapis.com 200
+[debug] [2025-10-12T12:47:35.061Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/autom8-app/services/firebasedataconnect.googleapis.com [omitted]
+[debug] [2025-10-12T12:47:35.075Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/autom8-app/services/cloudfunctions.googleapis.com 200
+[debug] [2025-10-12T12:47:35.075Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/autom8-app/services/cloudfunctions.googleapis.com [omitted]
+[debug] [2025-10-12T12:47:35.077Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/autom8-app/services/firebaseremoteconfig.googleapis.com 200
+[debug] [2025-10-12T12:47:35.077Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/autom8-app/services/firebaseremoteconfig.googleapis.com [omitted]
+[debug] [2025-10-12T12:47:35.090Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/autom8-app/services/firestore.googleapis.com 200
+[debug] [2025-10-12T12:47:35.090Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/autom8-app/services/firestore.googleapis.com [omitted]
+[debug] [2025-10-12T12:47:35.125Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/autom8-app/services/firebasedataconnect.googleapis.com 200
+[debug] [2025-10-12T12:47:35.126Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/autom8-app/services/firebasedataconnect.googleapis.com [omitted]
+[debug] [2025-10-12T12:47:35.380Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/autom8-app/services/ 200
+[debug] [2025-10-12T12:47:35.380Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/autom8-app/services/ [omitted]
+[debug] [2025-10-12T12:47:35.454Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/autom8-app/services/ 200
+[debug] [2025-10-12T12:47:35.454Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/autom8-app/services/ [omitted]
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-10-12T12:47:35.457Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-10-12T12:47:35.458Z] > authorizing via signed-in user (nishantrao2856@gmail.com)
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-10-12T12:52:15.190Z] Checked if tokens are valid: true, expires at: 1760276853075
+[debug] [2025-10-12T12:52:15.191Z] Checked if tokens are valid: true, expires at: 1760276853075
+[debug] [2025-10-12T12:52:15.191Z] Checked if tokens are valid: true, expires at: 1760276853075
+[debug] [2025-10-12T12:52:15.191Z] Checked if tokens are valid: true, expires at: 1760276853075
+[debug] [2025-10-12T12:52:15.192Z] Checked if tokens are valid: true, expires at: 1760276853075
+[debug] [2025-10-12T12:52:15.192Z] Checked if tokens are valid: true, expires at: 1760276853075
+[debug] [2025-10-12T12:52:15.193Z] Checked if tokens are valid: true, expires at: 1760276853075
+[debug] [2025-10-12T12:52:15.193Z] Checked if tokens are valid: true, expires at: 1760276853075
+[debug] [2025-10-12T12:52:15.193Z] Checked if tokens are valid: true, expires at: 1760276853075
+[debug] [2025-10-12T12:52:15.194Z] Checked if tokens are valid: true, expires at: 1760276853075
+[debug] [2025-10-12T12:52:15.194Z] Checked if tokens are valid: true, expires at: 1760276853075
+[debug] [2025-10-12T12:52:15.194Z] Checked if tokens are valid: true, expires at: 1760276853075
+[debug] [2025-10-12T12:52:15.195Z] Checked if tokens are valid: true, expires at: 1760276853075
+[debug] [2025-10-12T12:52:15.195Z] Checked if tokens are valid: true, expires at: 1760276853075
+[debug] [2025-10-12T12:52:15.197Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/autom8-app/services/ [none]
+[debug] [2025-10-12T12:52:15.197Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/autom8-app/services/ x-goog-quota-user=projects/autom8-app
+[debug] [2025-10-12T12:52:15.245Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/autom8-app/services/firestore.googleapis.com [none]
+[debug] [2025-10-12T12:52:15.245Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/autom8-app/services/firestore.googleapis.com x-goog-quota-user=projects/autom8-app
+[debug] [2025-10-12T12:52:15.248Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/autom8-app/services/firebasedataconnect.googleapis.com [none]
+[debug] [2025-10-12T12:52:15.248Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/autom8-app/services/firebasedataconnect.googleapis.com x-goog-quota-user=projects/autom8-app
+[debug] [2025-10-12T12:52:15.250Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/autom8-app/services/cloudfunctions.googleapis.com [none]
+[debug] [2025-10-12T12:52:15.250Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/autom8-app/services/cloudfunctions.googleapis.com x-goog-quota-user=projects/autom8-app
+[debug] [2025-10-12T12:52:15.253Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/autom8-app/services/firebasecrashlytics.googleapis.com [none]
+[debug] [2025-10-12T12:52:15.253Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/autom8-app/services/firebasecrashlytics.googleapis.com x-goog-quota-user=projects/autom8-app
+[debug] [2025-10-12T12:52:15.255Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/autom8-app/services/firebaseapphosting.googleapis.com [none]
+[debug] [2025-10-12T12:52:15.255Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/autom8-app/services/firebaseapphosting.googleapis.com x-goog-quota-user=projects/autom8-app
+[debug] [2025-10-12T12:52:15.258Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/autom8-app/services/firebaseio.com [none]
+[debug] [2025-10-12T12:52:15.258Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/autom8-app/services/firebaseio.com x-goog-quota-user=projects/autom8-app
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-10-12T12:52:15.375Z] Checked if tokens are valid: true, expires at: 1760276853075
+[debug] [2025-10-12T12:52:15.375Z] Checked if tokens are valid: true, expires at: 1760276853075
+[debug] [2025-10-12T12:52:15.375Z] Checked if tokens are valid: true, expires at: 1760276853075
+[debug] [2025-10-12T12:52:15.375Z] Checked if tokens are valid: true, expires at: 1760276853075
+[debug] [2025-10-12T12:52:15.381Z] Checked if tokens are valid: true, expires at: 1760276853075
+[debug] [2025-10-12T12:52:15.381Z] Checked if tokens are valid: true, expires at: 1760276853075
+[debug] [2025-10-12T12:52:15.381Z] Checked if tokens are valid: true, expires at: 1760276853075
+[debug] [2025-10-12T12:52:15.381Z] Checked if tokens are valid: true, expires at: 1760276853075
+[debug] [2025-10-12T12:52:15.386Z] Checked if tokens are valid: true, expires at: 1760276853075
+[debug] [2025-10-12T12:52:15.386Z] Checked if tokens are valid: true, expires at: 1760276853075
+[debug] [2025-10-12T12:52:15.387Z] Checked if tokens are valid: true, expires at: 1760276853075
+[debug] [2025-10-12T12:52:15.387Z] Checked if tokens are valid: true, expires at: 1760276853075
+[debug] [2025-10-12T12:52:15.387Z] Checked if tokens are valid: true, expires at: 1760276853075
+[debug] [2025-10-12T12:52:15.387Z] Checked if tokens are valid: true, expires at: 1760276853075
+[debug] [2025-10-12T12:52:15.388Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/autom8-app/services/ [none]
+[debug] [2025-10-12T12:52:15.388Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/autom8-app/services/ x-goog-quota-user=projects/autom8-app
+[debug] [2025-10-12T12:52:15.392Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/autom8-app/services/firestore.googleapis.com [none]
+[debug] [2025-10-12T12:52:15.392Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/autom8-app/services/firestore.googleapis.com x-goog-quota-user=projects/autom8-app
+[debug] [2025-10-12T12:52:15.397Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/autom8-app/services/firebasedataconnect.googleapis.com [none]
+[debug] [2025-10-12T12:52:15.397Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/autom8-app/services/firebasedataconnect.googleapis.com x-goog-quota-user=projects/autom8-app
+[debug] [2025-10-12T12:52:15.404Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/autom8-app/services/cloudfunctions.googleapis.com [none]
+[debug] [2025-10-12T12:52:15.404Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/autom8-app/services/cloudfunctions.googleapis.com x-goog-quota-user=projects/autom8-app
+[debug] [2025-10-12T12:52:15.407Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/autom8-app/services/firebasecrashlytics.googleapis.com [none]
+[debug] [2025-10-12T12:52:15.407Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/autom8-app/services/firebasecrashlytics.googleapis.com x-goog-quota-user=projects/autom8-app
+[debug] [2025-10-12T12:52:15.411Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/autom8-app/services/firebaseapphosting.googleapis.com [none]
+[debug] [2025-10-12T12:52:15.411Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/autom8-app/services/firebaseapphosting.googleapis.com x-goog-quota-user=projects/autom8-app
+[debug] [2025-10-12T12:52:15.414Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/autom8-app/services/firebaseio.com [none]
+[debug] [2025-10-12T12:52:15.415Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/autom8-app/services/firebaseio.com x-goog-quota-user=projects/autom8-app
+[debug] [2025-10-12T12:52:16.368Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/autom8-app/services/cloudfunctions.googleapis.com 200
+[debug] [2025-10-12T12:52:16.369Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/autom8-app/services/cloudfunctions.googleapis.com [omitted]
+[debug] [2025-10-12T12:52:16.369Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/autom8-app/services/firebaseio.com 403
+[debug] [2025-10-12T12:52:16.369Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/autom8-app/services/firebaseio.com [omitted]
+[debug] [2025-10-12T12:52:16.384Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/autom8-app/services/firebaseapphosting.googleapis.com 200
+[debug] [2025-10-12T12:52:16.384Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/autom8-app/services/firebaseapphosting.googleapis.com [omitted]
+[debug] [2025-10-12T12:52:16.387Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/autom8-app/services/firebasecrashlytics.googleapis.com 200
+[debug] [2025-10-12T12:52:16.387Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/autom8-app/services/firebasecrashlytics.googleapis.com [omitted]
+[debug] [2025-10-12T12:52:16.394Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/autom8-app/services/firebasedataconnect.googleapis.com 200
+[debug] [2025-10-12T12:52:16.395Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/autom8-app/services/firebasedataconnect.googleapis.com [omitted]
+[debug] [2025-10-12T12:52:16.401Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/autom8-app/services/firestore.googleapis.com 200
+[debug] [2025-10-12T12:52:16.401Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/autom8-app/services/firestore.googleapis.com [omitted]
+[debug] [2025-10-12T12:52:16.415Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/autom8-app/services/firebaseio.com 403
+[debug] [2025-10-12T12:52:16.416Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/autom8-app/services/firebaseio.com [omitted]
+[debug] [2025-10-12T12:52:16.461Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/autom8-app/services/firestore.googleapis.com 200
+[debug] [2025-10-12T12:52:16.461Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/autom8-app/services/firestore.googleapis.com [omitted]
+[debug] [2025-10-12T12:52:16.463Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/autom8-app/services/cloudfunctions.googleapis.com 200
+[debug] [2025-10-12T12:52:16.463Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/autom8-app/services/cloudfunctions.googleapis.com [omitted]
+[debug] [2025-10-12T12:52:16.467Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/autom8-app/services/firebasecrashlytics.googleapis.com 200
+[debug] [2025-10-12T12:52:16.467Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/autom8-app/services/firebasecrashlytics.googleapis.com [omitted]
+[debug] [2025-10-12T12:52:16.491Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/autom8-app/services/firebasedataconnect.googleapis.com 200
+[debug] [2025-10-12T12:52:16.491Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/autom8-app/services/firebasedataconnect.googleapis.com [omitted]
+[debug] [2025-10-12T12:52:16.521Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/autom8-app/services/firebaseapphosting.googleapis.com 200
+[debug] [2025-10-12T12:52:16.522Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/autom8-app/services/firebaseapphosting.googleapis.com [omitted]
+[debug] [2025-10-12T12:52:16.766Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/autom8-app/services/ 200
+[debug] [2025-10-12T12:52:16.766Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/autom8-app/services/ [omitted]
+[debug] [2025-10-12T12:52:16.836Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/autom8-app/services/ 200
+[debug] [2025-10-12T12:52:16.836Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/autom8-app/services/ [omitted]
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-10-12T12:52:16.850Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-10-12T12:52:16.851Z] > authorizing via signed-in user (nishantrao2856@gmail.com)
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-10-12T12:52:16.890Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-10-12T12:52:16.890Z] > authorizing via signed-in user (nishantrao2856@gmail.com)
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-10-12T12:52:16.905Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-10-12T12:52:16.906Z] > authorizing via signed-in user (nishantrao2856@gmail.com)
