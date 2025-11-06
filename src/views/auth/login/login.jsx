@@ -7,7 +7,11 @@ import { auth } from "../../../firebase";
 
 const Login = () => {
   const navigate = useNavigate();
+<<<<<<< HEAD
   const { login } = useAuth();
+=======
+  const { login, callBackendLogin, setUserId } = useAuth();
+>>>>>>> 68e5ed4 (Auth with basic Chatpage implemented)
   const [email, setEmail] = useState("");
   const [password, setPassword] = useState("");
   const [error, setError] = useState("");
@@ -18,9 +22,25 @@ const Login = () => {
       setError("");
       setLoading(true);
       await login(email, password);
+<<<<<<< HEAD
       navigate("/chat");
     } catch {
       setError("Failed to log in");
+=======
+
+      // Get Firebase ID token for the logged-in user
+      const firebaseToken = await auth.currentUser.getIdToken();
+
+      // Call the backend /login route with the Firebase token
+      await callBackendLogin(firebaseToken);
+      setUserId(auth.currentUser.uid);
+      console.log("User ID set in context:", auth.currentUser.uid);
+      console.log("Email/Password login successful, navigating to /chat");
+
+      //navigate("/chat");
+    } catch (e) {
+      setError("Failed to log in" + e.message);
+>>>>>>> 68e5ed4 (Auth with basic Chatpage implemented)
     }
     setLoading(false);
   }
@@ -30,10 +50,29 @@ const Login = () => {
     try {
       setError("");
       setLoading(true);
+<<<<<<< HEAD
       await signInWithPopup(auth, provider);
       navigate("/chat");
     } catch (e) {
       setError("Failed to sign in with Google: " + e.message);
+=======
+      //console.log("Opening Google popup...");
+      const result = await signInWithPopup(auth, provider);
+
+      // Get Firebase ID token for the Google user
+      const firebaseToken = await result.user.getIdToken();
+
+      // Call the backend /login route with the Firebase token
+      await callBackendLogin(firebaseToken);
+      setUserId(result.user.uid);
+      console.log("User ID set in context:", result.user.uid);
+      console.log("Google sign-in successful, navigating to /chat");
+
+      //navigate("/chat");
+    } catch (e) {
+      setError("Failed to sign in with Google: " + e.message);
+      console.error(e);
+>>>>>>> 68e5ed4 (Auth with basic Chatpage implemented)
     }
     setLoading(false);
   }

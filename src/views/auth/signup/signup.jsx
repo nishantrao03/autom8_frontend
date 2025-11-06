@@ -7,13 +7,18 @@ import { auth } from "../../../firebase";
 
 const Signup = () => {
   const navigate = useNavigate();
+<<<<<<< HEAD
   const { signup } = useAuth();
+=======
+  const { signup, callBackendLogin, setUserId } = useAuth();
+>>>>>>> 68e5ed4 (Auth with basic Chatpage implemented)
   const [email, setEmail] = useState("");
   const [password, setPassword] = useState("");
   const [error, setError] = useState("");
   const [loading, setLoading] = useState(false);
 
   async function handleEmailSignup() {
+<<<<<<< HEAD
     try {
       setError("");
       setLoading(true);
@@ -37,6 +42,51 @@ const Signup = () => {
     }
     setLoading(false);
   }
+=======
+      try {
+        setError("");
+        setLoading(true);
+        await signup(email, password);
+  
+        // Get Firebase ID token for the logged-in user
+        const firebaseToken = await auth.currentUser.getIdToken();
+  
+        // Call the backend /login route with the Firebase token
+        await callBackendLogin(firebaseToken);
+        setUserId(auth.currentUser.uid);
+  
+        //navigate("/chat");
+      } catch (e) {
+        setError("Failed to create an account: " + e.message);
+      }
+      setLoading(false);
+    }
+
+  async function handleGoogleSignIn() {
+      const provider = new GoogleAuthProvider();
+      try {
+        setError("");
+        setLoading(true);
+        //console.log("Opening Google popup...");
+        const result = await signInWithPopup(auth, provider);
+  
+        // Get Firebase ID token for the Google user
+        const firebaseToken = await result.user.getIdToken();
+  
+        // Call the backend /login route with the Firebase token
+        await callBackendLogin(firebaseToken);
+        setUserId(result.user.uid);
+        console.log("User ID set in context:", result.user.uid);
+        console.log("Google sign-in successful, navigating to /chat");
+  
+        //navigate("/chat");
+      } catch (e) {
+        setError("Failed to sign in with Google: " + e.message);
+        console.error(e);
+      }
+      setLoading(false);
+    }
+>>>>>>> 68e5ed4 (Auth with basic Chatpage implemented)
 
   return (
     <div className={styles.container}>

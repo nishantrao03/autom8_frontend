@@ -1,0 +1,40 @@
+.wrapper {
+  flex: 1;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  background: transparent; /* inherit dark page bg */
+  padding: 20px;
+}
+
+.empty {
+  margin: auto;
+  font-size: 18px;
+  color: #cbd5e1;
+}
+
+.chatArea {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  overflow-y: auto;
+  padding-bottom: 20px;
+}
+
+.userMessage {
+  align-self: flex-end;
+  background: #0b69ff;
+  color: #fff;
+  padding: 10px 14px;
+  border-radius: 14px;
+  max-width: 70%;
+}
+
+.assistantMessage {
+  align-self: flex-start;
+  background: #1f2937; /* dark gray bubble */
+  color: #fff;
+  padding: 10px 14px;
+  border-radius: 14px;
+  max-width: 70%;
+}
