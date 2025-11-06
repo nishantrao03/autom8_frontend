@@ -7,42 +7,13 @@ import { auth } from "../../../firebase";
 
 const Signup = () => {
   const navigate = useNavigate();
-<<<<<<< HEAD
-  const { signup } = useAuth();
-=======
   const { signup, callBackendLogin, setUserId } = useAuth();
->>>>>>> 68e5ed4 (Auth with basic Chatpage implemented)
   const [email, setEmail] = useState("");
   const [password, setPassword] = useState("");
   const [error, setError] = useState("");
   const [loading, setLoading] = useState(false);
 
   async function handleEmailSignup() {
-<<<<<<< HEAD
-    try {
-      setError("");
-      setLoading(true);
-      await signup(email, password);
-      navigate("/chat");
-    } catch (e) {
-      setError("Failed to create an account: " + e.message);
-    }
-    setLoading(false);
-  }
-
-  async function handleGoogleSignIn() {
-    const provider = new GoogleAuthProvider();
-    try {
-      setError("");
-      setLoading(true);
-      await signInWithPopup(auth, provider);
-      navigate("/chat");
-    } catch (e) {
-      setError("Failed to sign in with Google: " + e.message);
-    }
-    setLoading(false);
-  }
-=======
       try {
         setError("");
         setLoading(true);
@@ -86,7 +57,6 @@ const Signup = () => {
       }
       setLoading(false);
     }
->>>>>>> 68e5ed4 (Auth with basic Chatpage implemented)
 
   return (
     <div className={styles.container}>
