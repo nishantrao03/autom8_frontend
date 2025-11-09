@@ -38,6 +38,68 @@ export function AuthProvider({ children }) {
     return signOut(auth);
   }
 
+  async function createUserInBackend(uid) {
+    if (!uid) {
+      console.error('createUserInBackend called without uid');
+      return { ok: false, message: 'missing uid' };
+    }
+
+    try {
+      // Prefer the Firebase displayName if available
+      const name = auth.currentUser?.displayName || '';
+
+      const resp = await fetch(`${BACKEND_URL}/create-user`, {
+        method: 'POST',
+        credentials: 'include',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ uid, name }),
+      });
+
+      const data = await resp.json().catch(() => ({ ok: resp.ok }));
+
+      if (!resp.ok) {
+        console.error('createUserInBackend failed:', resp.status, data);
+        return { ok: false, status: resp.status, data };
+      }
+
+      console.log('createUserInBackend success', data);
+      return data;
+    } catch (err) {
+      console.error('createUserInBackend error:', err);
+      return { ok: false, message: 'network_error' };
+    }
+  }
+
+  async function handleLogout() {
+    // First notify backend to clear cookies (access & refresh)
+    try {
+      await fetch(`${BACKEND_URL}/logout`, {
+        method: 'POST',
+        credentials: 'include',
+      });
+      //console.log('Backend logout successful');
+    } catch (err) {
+      console.error('Backend logout request failed:', err);
+      // proceed to firebase logout regardless
+    }
+
+    try {
+      // This `logout` function already removes localStorage and signs out of Firebase
+      await logout();
+      //console.log('Firebase logout successful');
+    } catch (err) {
+      console.error('Firebase logout failed:', err);
+    }
+
+    // // Clear local auth state
+    // try {
+    //   setUserId(null);
+    //   setIsAuthenticated(false);
+    // } catch (err) {
+    //   // ignore
+    // }
+  }
+
   async function callBackendLogin(firebaseToken) {
     try {
       await fetch(`${BACKEND_URL}/login`, {
@@ -133,6 +195,22 @@ export function AuthProvider({ children }) {
 //   return unsubscribe;
 // }, []);
 
+  useEffect(() => {
+    // Subscribe to Firebase auth changes
+    const unsubscribe = onAuthStateChanged(auth, (user) => {
+      if (user) {
+        // User is signed in — set the userId
+        setUserId(user.uid);
+      } else {
+        // User is signed out or deleted — clear userId
+        setUserId(null);
+      }
+    });
+
+    // Cleanup on unmount
+    return () => unsubscribe();
+  }, [setUserId]);
+
   //  Persist userId whenever it changes
   useEffect(() => {
     if (userId) {
@@ -143,7 +221,8 @@ export function AuthProvider({ children }) {
   }, [userId]);
 
     useEffect(() => {
-    console.log("Auth check running for userId:", userId);
+    //console.log("Auth check running for userId:", userId);
+    //console.log("Auth object:", auth);
 
     // If there's no userId, unauthenticate immediately
     if (!userId) {
@@ -233,6 +312,8 @@ export function AuthProvider({ children }) {
     checkAccessToken,
     checkRefreshToken,
     setIsAuthenticated,
+    createUserInBackend,
+    handleLogout,
   };
 
   return (

@@ -7,7 +7,7 @@ import { auth } from "../../../firebase";
 
 const Signup = () => {
   const navigate = useNavigate();
-  const { signup, callBackendLogin, setUserId } = useAuth();
+  const { signup, callBackendLogin, setUserId, createUserInBackend } = useAuth();
   const [email, setEmail] = useState("");
   const [password, setPassword] = useState("");
   const [error, setError] = useState("");
@@ -25,7 +25,7 @@ const Signup = () => {
         // Call the backend /login route with the Firebase token
         await callBackendLogin(firebaseToken);
         setUserId(auth.currentUser.uid);
-  
+        await createUserInBackend(auth.currentUser.uid);
         //navigate("/chat");
       } catch (e) {
         setError("Failed to create an account: " + e.message);
@@ -47,6 +47,7 @@ const Signup = () => {
         // Call the backend /login route with the Firebase token
         await callBackendLogin(firebaseToken);
         setUserId(result.user.uid);
+        await createUserInBackend(result.user.uid);
         console.log("User ID set in context:", result.user.uid);
         console.log("Google sign-in successful, navigating to /chat");
   

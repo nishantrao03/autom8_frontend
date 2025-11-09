@@ -7,7 +7,7 @@ import { auth } from "../../../firebase";
 
 const Login = () => {
   const navigate = useNavigate();
-  const { login, callBackendLogin, setUserId } = useAuth();
+  const { login, callBackendLogin, setUserId, createUserInBackend } = useAuth();
   const [email, setEmail] = useState("");
   const [password, setPassword] = useState("");
   const [error, setError] = useState("");
@@ -24,7 +24,9 @@ const Login = () => {
 
       // Call the backend /login route with the Firebase token
       await callBackendLogin(firebaseToken);
+      
       setUserId(auth.currentUser.uid);
+      
       console.log("User ID set in context:", auth.currentUser.uid);
       console.log("Email/Password login successful, navigating to /chat");
 
@@ -49,6 +51,7 @@ const Login = () => {
       // Call the backend /login route with the Firebase token
       await callBackendLogin(firebaseToken);
       setUserId(result.user.uid);
+      await createUserInBackend(result.user.uid);
       console.log("User ID set in context:", result.user.uid);
       console.log("Google sign-in successful, navigating to /chat");
 
